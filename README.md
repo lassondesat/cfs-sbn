@@ -1,6 +1,6 @@
 # cFS: Software Bus Network
 
-[![GitHub release](https://img.shields.io/github/release/yusend/cfs-sbn.svg)](https://github.com/yusend/cfs-sbn/releases)
+[![GitHub release](https://img.shields.io/github/release/lassondesat/cfs-sbn.svg)](https://github.com/lassondesat/cfs-sbn/releases)
 
 * [Original README](cfs-sbn-app-OSS-readme.txt)
 
@@ -31,5 +31,5 @@ patch is scheduled to be uploaded to this project COB 4/3/15.
 
 * https://sourceforge.net/projects/cfs-sbn/
 
-[osal]: https://github.com/yusend/osal
-[cfe]: https://github.com/yusend/coreflightexec
+[osal]: https://github.com/lassondesat/osal
+[cfe]: https://github.com/lassondesat/coreflightexec
